@@ -18,6 +18,7 @@ Locally installed full STRING database dumps from URL https://string-db.org/cgi/
 
 ## Installation
 Install the required dependencies using pip:
+
 $ pip install psycopg2
 
 ## Usage
