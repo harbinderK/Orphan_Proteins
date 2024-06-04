@@ -1,4 +1,5 @@
-Overview
+## Overview
+
 This repository contains scripts for interacting with a STRING PostgreSQL database and processing Protein-Protein Interaction data. The goal is identifying orphan proteins that may be potential candidates for missing protein complex components. The scripts retrieve information from the database using input files and calculate scores from a list of neighbors.
 
 Scripts Included
