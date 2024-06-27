@@ -41,8 +41,11 @@ $ python get_baysian_score.py out_2.txt > out_3.txt
 $ sort -g -k2 out_3.txt > out_4.txt
 
 ## Acknowledgments
-We would like to thank the creators and maintainers of the STRING database (https://string-db.org/) for providing an invaluable resource for protein-protein interaction data, which was essential for the development and testing of these scripts.
-- STRING database: Szklarczyk D, Gable AL, Nastou KC, Lyon D, Kirsch R, Pyysalo S, Doncheva NT, Legeay M, Fang T, Bork P, Jensen LJ, von Mering C. The STRING database in 2021: customizable protein–protein networks, and functional characterization of user-uploaded gene/measurement sets. Nucleic acids research. 2021 Jan 8;49(D1):D605-12. doi:https://doi.org/10.1093%2Fnar%2Fgkaa1074 
+- We would like to thank the creators and maintainers of the STRING database (https://string-db.org/) for providing an invaluable resource for protein-protein interaction data, which was essential for the development and testing of these scripts.
+	 STRING database: Szklarczyk D, Gable AL, Nastou KC, Lyon D, Kirsch R, Pyysalo S, Doncheva NT, Legeay M, Fang T, Bork P, Jensen LJ, von Mering C. The STRING database in 2021: customizable protein–protein networks, and functional characterization of user-uploaded gene/measurement sets. Nucleic acids research. 2021 Jan 8;49(D1):D605-12. doi:https://doi.org/10.1093%2Fnar%2Fgkaa1074
+
+- This project is inspired by
+  	Sinha, S., Lynn, A.M. & Desai, D.K. Implementation of homology based and non-homology based computational methods for the identification and annotation of orphan enzymes: using Mycobacterium tuberculosis H37Rv as a case study. BMC Bioinformatics 21, 466 (2020). https://doi.org/10.1186/s12859-020-03794-x
 
 Contact
 For any questions or feedback, please contact harbin27_sit@jnu.ac.in.
